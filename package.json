@@ -1,0 +1,17 @@
+{
+  "name": "issue-dcloudio-types-3.0.3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xiaoxiangmoe/issue-dcloudio-types-3.0.3.git",
+  "author": "ZHAO Jinxiang <xiaoxiangmoe@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "type-check": "tsc --noEmit --project tsconfig.json"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@dcloudio/types": "^3.0.3",
+    "@vue/tsconfig": "^0.1.3",
+    "typescript": "^4.7.3"
+  }
+}

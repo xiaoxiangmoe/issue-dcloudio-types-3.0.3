@@ -1,0 +1,11 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": false,
+    "isolatedModules": false,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "lib": ["ESNext", "DOM"],
+    "types": []
+  }
+}
